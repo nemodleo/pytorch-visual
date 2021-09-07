@@ -10,4 +10,4 @@ Pytorch의 시각화 및 학습 현황 확인을 위한 라이브러리 연습 �
 
 ## 학습 현황
 1. tensorboard
-1. Weight & Biases
+1. Weight & Biases [site](https://docs.wandb.ai/guides/integrations/lightning)

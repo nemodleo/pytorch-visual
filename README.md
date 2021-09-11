@@ -7,6 +7,7 @@ Pytorch의 시각화를 위한 라이브러리 연습 레포지토리
 1. visdom
 1. torchviz (graphviz)
 1. netron
+1. PlotNeuralNet
 
 ## 학습 현황
 1. tensorboard
